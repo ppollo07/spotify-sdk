@@ -26,5 +26,6 @@
   },
   "author": "loverajoel",
   "license": "MIT",
-  "main": "lib/index.js"
+  "main": "lib/index.js",
+  "dependencies": {}
 }
